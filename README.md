@@ -1,4 +1,3 @@
-![Banner](banner.png)
 
 # 👋 Hi, I'm Rahul — ML Engineer & Quantitative Dev
 
@@ -36,10 +35,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul_kumar&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=rahul_kumar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulakkasali&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=rahulakkasali&show_icons=true&theme=tokyonight)
 
 ---
 
 ## ✨ Connect
-📧 your.email@example.com • [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📧 rahulkumarakkasali@gmail.com • [LinkedIn](https://www.linkedin.com/in/yourprofile)
