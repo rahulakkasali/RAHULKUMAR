@@ -41,4 +41,4 @@
 ---
 
 ## ✨ Connect
-📧 rahulkumarakkasali@gmail.com • [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📧 rahulkumarakkasali@gmail.com • [LinkedIn](www.linkedin.com/in/rahulkumar-akkasali)
