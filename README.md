@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Rahul — ML Engineer & Quantitative Dev
+# 👋 Hi, I'm Rahul — ML Engineer & Quantitative finance
 
 ![Coding Boy](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
